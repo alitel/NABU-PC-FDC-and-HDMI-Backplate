@@ -6,3 +6,6 @@ This is a modification of the project created by Classic_computer_workshop on Th
 I have modified this project (using FreeCAD) to allow for an HDMI panel-mount passthrough connection in addition to the FDC cutout
 
 All original licence terms apply
+
+![backplate](https://github.com/alitel/NABU-PC-FDC-and-HDMI-Backplate/assets/161774022/085e34c1-b844-4677-9d68-ca191a1760fb)
+
